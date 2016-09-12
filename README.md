@@ -1,5 +1,3 @@
 # angular-demo
 
-This is my first angular demo project.
-
-Ref : https://angular.io/docs/ts/latest/quickstart.html
+This is my angular-1.3 demo project.

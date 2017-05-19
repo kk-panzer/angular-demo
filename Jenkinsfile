@@ -2,7 +2,7 @@
 
 node('BuildServer'){
 	def workspace = pwd()
-	stage('SCM){
+	stage('SCM'){
 		checkout scm
 		branchName = env.BRANCH_NAME
 		echo "Branch name : ${branchName}"
